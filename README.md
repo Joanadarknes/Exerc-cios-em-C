@@ -10,6 +10,37 @@
 
 5. Faça um programa em C que faça a conversão de uma temperatura lida em Celcius para Fahrenheit. Fórmula F = (9 * C + 160) / 5
 
+6. Crie, em C, uma pequena calculadora de IMC (Índice de Massa Corpórea)
+
+7. O hospital local está fazendo uma campanha para receber doação de sangue.
+    O doador deve inicialmente se cadastrar informando sua idade, seu peso, responder a um breve questionário e apresentar um documento oficial com foto.
+    Faça um programa que permita ao hospital realizar o cadastro dos voluntários para avaliar a aptidão quanto à doação de sangue. 
+    Para estar apto a doar, o voluntário deve ter idade entre 16 e 69, pesar pelo menos 50 kg, estar bem alimentado e não estar resfriado. 
+    O programa deve ler os dados e imprimir no final se ele está apto ou não.
+    
+ 8. Escreva um programa em linguagem C que leia um peso na Terra e o número de um planeta. O programa deve imprimir o valor correspondente do peso neste planeta.
+   A relação de planetas é dada a seguir juntamente com o valor das gravidades relativas à Terra.
+ 
+Cód     Gravidade Relativa      Planeta
+------------------------------------------
+1           0,37                Mercúrio
+2           0,88                Vênus
+3           0,38                Marte
+4           2,64                Júpter
+5           1,15                Saturno
+6           1,17                Urano
+ 
+Para calcular o peso no planeta em questão, use a seguinte 
+fórmula:
+ 
+    PP = (PT / 10) * G
+ 
+Sendo:
+ 
+    PP = Peso no planeta
+    PT = Peso na Terra
+    G = Gravidade relativa
+
 
 # 🗂️ Exercios-em-C #2
 1. Faça um programa em C que leia dois valores numéricos inteiros e efetue a adição. Caso o resultado seja maior que 10, apresentá-lo.
