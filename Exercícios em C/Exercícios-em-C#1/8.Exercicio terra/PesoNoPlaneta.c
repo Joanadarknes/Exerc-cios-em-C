@@ -1,5 +1,4 @@
 /*
-(do material que o professor utiliza)
 Escreva um programa em linguagem C que leia um peso na 
 Terra e o número de um planeta. O programa deve imprimir
 o valor correspondente do peso neste planeta.

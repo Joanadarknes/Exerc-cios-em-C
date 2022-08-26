@@ -1,4 +1,4 @@
-/* (do material utilizado pelo professor)
+/* 
     O hospital local está fazendo uma campanha para receber 
     doação de sangue.
     O doador deve inicialmente se cadastrar informando sua idade, seu peso, responder a um breve questionário 
