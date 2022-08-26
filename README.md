@@ -1,4 +1,4 @@
-# Exercios-em-C
+# Exercios-em-C #1
 
 1. Faça um programa em C que leia um número real e calcule o quadrado deste número. Ao final, o programa deve imprimir o resultado do cálculo.
 
