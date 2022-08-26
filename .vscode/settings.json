@@ -1,0 +1,11 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "*.widget": "html",
+        "*.page": "html",
+        "*.module": "html",
+        "EX-5.C": "cpp",
+        "EX-6.C": "cpp",
+        "EX-7.C": "cpp"
+    }
+}
