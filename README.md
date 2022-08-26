@@ -1,4 +1,4 @@
-# Exercios-em-C #1
+# 🗂️ Exercios-em-C #1
 
 1. Faça um programa em C que leia um número real e calcule o quadrado deste número. Ao final, o programa deve imprimir o resultado do cálculo.
 
@@ -11,7 +11,7 @@
 5. Faça um programa em C que faça a conversão de uma temperatura lida em Celcius para Fahrenheit. Fórmula F = (9 * C + 160) / 5
 
 
-# Exercios-em-C #2
+# 🗂️ Exercios-em-C #2
 1. Faça um programa em C que leia dois valores numéricos inteiros e efetue a adição. Caso o resultado seja maior que 10, apresentá-lo.
 
 2.  Faça um programa em C que leia um valor e verifique se é múltiplo de 3.
