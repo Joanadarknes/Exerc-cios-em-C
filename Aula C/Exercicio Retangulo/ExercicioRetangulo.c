@@ -5,17 +5,24 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(int argc, char * * argv) {
-	int b, h, area;
+int main() {
+    //declarações
+    float base, altura, perimetro, area;
 
-	printf("Informe o valor da base: ");
-	scanf("%d", & b);
-	printf("Informe o valor da altura: ");
-	scanf("%d", & h);
-	
-	area = (b * h) / 2;
+    //leituras:
+    printf("Informe a base: ");
+    scanf("%f", &base);
 
-	printf("Valor da base: [%d]\n\n", area);
-	system("pause");
-	return 0;
+    printf("Informe a altura: ");
+    scanf("%f", &altura);
+
+    //cálculos (processamento)
+    perimetro = (2 * base) + (2 * altura);
+    area = base * altura;
+
+    //exibição dos resultados (saída):
+    printf("\nO perímetro é: %.2f", perimetro);
+    printf("\nA área é: %.2f", area);
+
+    return 0;
 }
