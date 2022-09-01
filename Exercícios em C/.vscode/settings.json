@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.widget": "html",
+        "*.page": "html",
+        "*.module": "html",
+        "EX-7.C": "cpp",
+        "EX-6.C": "cpp",
+        "EX-5.C": "cpp"
+    }
+}
