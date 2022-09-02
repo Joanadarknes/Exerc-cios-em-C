@@ -57,4 +57,16 @@ Sendo:
 
 7. Construa um programa que leia o percurso em quilómetros, o tipo do carro e informe o consumo estimado de combustível, sabendo-se que um carro tipo A faz 12 km com um litro de gasolina, um tipo B faz 9km e o tipo C, 8km por litro.
 
+# 🗂️ Exercios-em-C #3
 
+1. Faça um programa em C que imprima todos os números de 1 até 100.
+
+2. Faça um programa em C que imprima todos os números de 100 até 1.
+
+3. Faça um programa em C que imprima todos multiplos de 5 de 1 até 500.
+
+4. Crie um programa em C que seja capaz de entrar com três notas de 5 alunos. 
+O programa deve mostrar a média de cada aluno e a média da turma.
+
+ 5. Construa um programa em C que leia vários números e informe quantos números entre 100 e 200 foram digitados.
+ Quando o valor 0 (zero) for lido, o algoritmo deverá cessar sua execução.
