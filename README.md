@@ -70,3 +70,57 @@ O programa deve mostrar a média de cada aluno e a média da turma.
 
  5. Construa um programa em C que leia vários números e informe quantos números entre 100 e 200 foram digitados.
  Quando o valor 0 (zero) for lido, o algoritmo deverá cessar sua execução.
+
+# 🗂️ Exercios-em-C #4
+
+1. Implemente um programa em C que leia o nome, a idade e o endereço de uma pessoa 
+e armazene esses dados em uma estrutura. Em seguida, imprima na tela os dados da estrutura lida.
+
+2. Crie uma estrutura para representar as coordenadas de um ponto no plano
+(posições X e Y). Em seguida, declare e leia do teclado um ponto, calcule exiba 
+a distância dele até a origem das coordenadas, isto é, posição (0, 0).
+Para realizar o cálculo, utilize a fórmula de distância euclidiana:
+
+    d = RAIZ((QUADRADO(XB - XA) + QUADRADO(YB + YA)))
+    (vide imagem na pasta)
+
+    Onde:
+        - d = Diatância entre os pontos A e B
+        - X = coordenada X em um ponto
+        - Y = coordenada Y em um ponto
+
+3. Crie uma estrutura para representar as coordenadas de um ponto no plano
+(posições X e Y). Em seguida, declare e leia do teclado dois pontos e exiba a 
+distância entre eles, considere a mesma fórmula do exercício anterior.
+
+4. Crie uma estrutura chamada retângulo. Essa estrutura deverá conter o ponto 
+superior esquerdo e o ponto inferior direito do retângulo. Cada ponto é definido
+por uma estrutura Ponto, a qual contém as posições X e Y. Faça um programa que 
+declare e leia uma estrutura retângulo e exiba a área, o comprimento da 
+diagonal e o perímetro desse retângulo.
+
+
+5. Crie uma estrutura representando um aluno de uma disciplina. Essa estrutura 
+deve conter o número de matrícula do aluno, seu nome e notas de três provas.
+Defina também um tipo para esta estrutura. 
+Agora, escreva um programa que leia os dados de cinco alunos e os armazena 
+nessa estrutura. Em seguida, exiba o nome e as notas do aluno que possui a 
+maior média geral dentre os cinco.
+
+# 🗂️ Exercios-em-C #5
+
+1. Faça um programa que leia os elementos inteiros de uma matriz com tamanho 3 X 3 e imprima os elementos multiplicando-os por 2.
+
+2. Faça um programa que permita entrar com valores inteiros em uma matriz A de tamanho 3 X 4. Gerar e imprimir uma matriz B que é o triplo da matriz A.
+
+3. Entrar com valores para uma matriz C (2x3). Gerar e imprimir a C tramsposta. A matriz transposta é gerada trocando linha por coluna. Veja o exemplo a seguir:
+
+    C = (1 2 3)
+        (4 5 6)
+
+    Ct = (1 4)
+         (2 5)
+         (3 6)
+
+
+4. Supondo que uma matriz apresente em cada linha o total de produtos vendidos ao mês por uma loja que trabalha com cinco tipos diferentes de produtos, construir um programa que leia esse total e, ao final, apresente o total de produtos vendidos em cada mês e o total de vendas por ano por produto.
