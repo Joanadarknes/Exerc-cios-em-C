@@ -6,5 +6,6 @@
         "EX-7.C": "cpp",
         "EX-6.C": "cpp",
         "EX-5.C": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
 }
